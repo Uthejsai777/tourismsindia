@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <title>
+    </title>
+    <style>
+      #one{
+       text-align: center;
+       color: orangered;
+       background-color:white;
+      }
+      #image{
+        position: relative;
+      }
+      #image h2{
+        position: absolute ;
+        right: 150px;
+        top:40px;
+        background: skyblue;}
+      #boxes {
+        float: left;
+      }   
+    </style>
+    </head>
+    <body bgcolor="navyblue">
+     <center><h1>PLACES </h1></center>
+     <div id="one">
+       <h1>
+     <a href="PLACES">PLACES</a>&nbsp;&nbsp;
+     <a href="#">PROVIDERS</a>&nbsp;&nbsp;
+     <a href="#">PACKAGES</a>&nbsp;&nbsp;
+     <a href="#">ABOUT US</a><br><h1>
+     </div>
+     <div id="image">
+      <h2> <marquee><b>PLACES ARE IN OPEN YOU CAN VISIT  </b></marquee></h2>
+     </div>
+     <br>
+     <br>
+    <center> <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/9e/9c/14/kedarnath-mandir.jpg?w=1200&h=1200&s=1" width="1000px;"><br><center>
+      <p>Services are available </p>
+      <button>For bookings</button>
+      <br>
+      <div id="boxes">
+        <div> <img src="https://img.freepik.com/premium-photo/japan-mountain-landscape-fuji-nature-background-travel-japanese-sky-asia-beautiful-snow_265515-17126.jpg" width="500px;"><center><p><b>THIS IS THE MOST VISITED PLACE IN THE LAST YEAR</b></p></center></div>
+        <div><img src="https://th.bing.com/th/id/OIP.paAFYMOBroxaHdKm2TDBIgHaFj?w=209&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"><center><p><b>THIS IS LOCATED IN THE JAPAN WE CAN GET THE ACCESS TO THIS PLACE WITH THE MINIMUM COST </b></p></center></div>
+        <div><img src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-808858,resizemode-75,msid-106689775/news/how-to/planning-a-trip-to-lakshadweep-heres-a-complete-guide-on-how-to-reach-by-sea-or-air-apply-for-permits.jpg" width="500px;" ><center><p><b>THIS IS THE LAKSHADWEEP ISLANDS WHICH HAS A FANTASTIC VIEW </b>
+        </p></center></div>
+      </div>
+    </body>
+</html>
